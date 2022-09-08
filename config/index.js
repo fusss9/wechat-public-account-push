@@ -10,7 +10,7 @@ export const config = {
       // 所在省份
       province: "湖南",
       // 所在城市
-      city: "永州",
+      city: "江永",
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
       openUrl: "https://v1.jinrishici.com/rensheng.txt"
     }, 
@@ -19,7 +19,7 @@ export const config = {
       id: "oKyBR56k-rhjK3X-fdetGTVfijEM",
       useTemplateId: "AtGKJsgnhkl1vpdEbFJ1kv3g7KTnk_Y8OpeMgdVygaU",
       province: "湖南",
-      city: "永州",
+      city: "江永",
       openUrl: "https://v1.jinrishici.com/rensheng.txt"
     }, 
   ],
@@ -50,7 +50,7 @@ export const config = {
   // 默认所在省份, USERS 中没填的话, 会默认拿这里的省份
   PROVINCE: "湖南",
   // 默认所在城市, USERS 中没填的话, 会默认拿这里的城市
-  CITY: "永州",
+  CITY: "江永",
 
   /** 重要节日相关 */
 
