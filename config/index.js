@@ -35,7 +35,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oKyBR5_lRMRspTA897bLvzf91ocs",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "95FvEbHmp6n2MBoQoIJVP8MHkBNeSiE1-1pNOrKeUIU",
+      useTemplateId: "_jFMUbtrdSL5M8iHz2dwCEZnd97Qze8CRywD9xdelZ0",
       // 所在省份
       province: "湖南",
       // 所在城市
@@ -46,7 +46,7 @@ export const config = {
     {
       name: "测试", 
       id: "oKyBR56k-rhjK3X-fdetGTVfijEM",
-      useTemplateId: "95FvEbHmp6n2MBoQoIJVP8MHkBNeSiE1-1pNOrKeUIU",
+      useTemplateId: "_jFMUbtrdSL5M8iHz2dwCEZnd97Qze8CRywD9xdelZ0",
       province: "湖南",
       city: "永州",
       openUrl: "https://v1.jinrishici.com/rensheng.txt"
@@ -108,7 +108,7 @@ export const config = {
   FESTIVALS: [
     {"type": "生日", "name": "美丽可爱亲亲老婆", "year": "1999", "date": "10-31"},
    // {"type": "节日", "name": "纪念日", "year": "2021", "date": "09-03"},
-//     {"type": "生日", "name": "李四", "year": "1996", "date": "09-31"},
+     {"type": "生日", "name": "帆帆", "year": "2001", "date": "03-11"},
 //     {"type": "节日", "name": "被搭讪纪念日", "year": "2021", "date": "09-01"},
   ],
 
