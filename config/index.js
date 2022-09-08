@@ -43,14 +43,14 @@ export const config = {
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
       openUrl: "https://v1.jinrishici.com/rensheng.txt"
     }, 
-//     {
-//       name: "老婆1", 
-//       id: "",
-//       useTemplateId: "",
-//       province: "",
-//       city: "",
-//       openUrl: "https://wangxinleo.cn"
-//     }, 
+    {
+      name: "测试", 
+      id: "oKyBR56k-rhjK3X-fdetGTVfijEM",
+      useTemplateId: "95FvEbHmp6n2MBoQoIJVP8MHkBNeSiE1-1pNOrKeUIU",
+      province: "湖南",
+      city: "永州",
+      openUrl: "https://v1.jinrishici.com/rensheng.txt"
+    }, 
 //     {
 //       name: "老婆2",
 //       id: "",
